@@ -1,0 +1,14 @@
+.ButtonPanel{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+    width: 100%;
+    flex: 1 0 auto;
+    align-content: space-around;
+}
+
+
+.ButtonPanel div {
+    display: flex;
+    justify-content: space-evenly;
+}

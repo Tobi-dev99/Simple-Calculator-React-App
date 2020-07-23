@@ -1,0 +1,10 @@
+.Input{
+    background-color: #433437;
+    width: 100%;
+    font-size: 50px;
+    text-align: right;
+    /* margin: 1px; */
+    color: white;
+    box-sizing: border-box;
+    padding-right: 5px;
+}
